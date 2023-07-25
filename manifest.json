@@ -1,6 +1,6 @@
 {
-	"id": "shirr",
-	"name": "Shirr",
+	"id": "corset",
+	"name": "Corset",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Resize note view width by Alt+Wheel, no more need for \"Readable line length\"",

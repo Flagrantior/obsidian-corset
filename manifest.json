@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "shirr",
+	"name": "Shirr",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "Resize note view width by Alt+Wheel, no more need for \"Readable line length\"",
+	"author": "Flagrantior",
+	"authorUrl": "https://flagrantior.art",
+	"fundingUrl": "https://flagrantior.art/donate.html",
+	"isDesktopOnly": true
 }
